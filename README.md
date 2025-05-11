@@ -1,5 +1,4 @@
-## Course: Application Prototyping  
-**Grade:** 14/20  
+## Course: Application Prototyping   
 **Tools Used:** Figma, Miro, Lucidchart, Notion, C4 Model, Example Mapping
 
 ---
