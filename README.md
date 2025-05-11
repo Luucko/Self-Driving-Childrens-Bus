@@ -1,17 +1,17 @@
-## 📱 Course: Application Prototyping  
+## Course: Application Prototyping  
 **Grade:** 14/20  
 **Tools Used:** Figma, Miro, Lucidchart, Notion, C4 Model, Example Mapping
 
 ---
 
-### 🧠 Project Overview  
+### Project Overview  
 This was a **concept design project** from the second semester of my **Applied Computer Science** degree. The challenge was based on a **fictional brief by the city of Bruges**, which aimed to reduce traffic stress for young parents by introducing a **self-driving bus service for toddlers and pre-schoolers**.
 
 The project was heavily focused on **conceptual design and prototyping**, rather than implementation. The core goal was to build a system that people could **trust**, even without a driver. This meant addressing not just technical challenges, but also **emotional factors** like child comfort and parental anxiety.
 
 ---
 
-### 🔧 Key Components I Designed  
+### Key Components I Designed  
 
 - **Stakeholder-focused user stories**  
   Covered the perspectives of **parents, schools, city officials, and kids**.
@@ -36,7 +36,7 @@ The project was heavily focused on **conceptual design and prototyping**, rather
 
 ---
 
-### ⚖️ Ethical & Functional Considerations  
+### ⚖Ethical & Functional Considerations  
 
 - Balanced **surveillance vs. privacy** and made thoughtful decisions around **data handling**.  
 - Developed a **custom authentication model**: no public registration; access is granted via schools or the city.  
@@ -44,7 +44,7 @@ The project was heavily focused on **conceptual design and prototyping**, rather
 
 ---
 
-### 📚 Key Takeaways  
+### Key Takeaways  
 This project helped me understand how to design for **trust**, not just functionality—especially in a high-stakes context involving **children and automation**.
 
 It brought together:
